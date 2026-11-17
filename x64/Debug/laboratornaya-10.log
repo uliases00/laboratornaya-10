@@ -1,0 +1,6 @@
+﻿  laboratornaya-10.c
+C:\Users\New\source\repos\laboratornaya-10\laboratornaya-10\laboratornaya-10.c(27,12): warning C4101: a: неиспользованная локальная переменная
+C:\Users\New\source\repos\laboratornaya-10\laboratornaya-10\laboratornaya-10.c(27,15): warning C4101: b: неиспользованная локальная переменная
+C:\Users\New\source\repos\laboratornaya-10\laboratornaya-10\laboratornaya-10.c(57,1): warning C4716: Task1: должна возвращать значение
+C:\Users\New\source\repos\laboratornaya-10\laboratornaya-10\laboratornaya-10.c(104,1): warning C4716: Task2: должна возвращать значение
+  laboratornaya-10.vcxproj -> C:\Users\New\source\repos\laboratornaya-10\x64\Debug\laboratornaya-10.exe
